@@ -18,3 +18,7 @@
 ## **프로젝트 주소**
 
 https://github.com/MyStationLocationInfo/MyStationLocationInfo
+
+## **이슈 내용**
+
+https://github.com/MyStationLocationInfo/MyStationLocationInfo/issues
